@@ -36,8 +36,6 @@
 
 #### Skills: Planning, Communication, Shooting on a 360 Camera, Editing
 
-![Insta360Pro](/assets/img/360pro.jpg)
-
 ### UWashington Formula
 - Worked to advance autonomous functionalities on a Formula One vehicle as part of the Driverless subteam
 - Optimized control of a stepper motor to improve responsiveness in providing steering assistance
