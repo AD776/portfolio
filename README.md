@@ -29,4 +29,4 @@
 - Optimized control of a stepper motor to improve responsiveness in providing steering assistance
 - Synchronized communication for the vehicle through a single channel
 
-![Formula Logo](/assets/img/formula.jpeg){width=400px}
+![Formula Logo](/assets/img/formula.jpeg)
