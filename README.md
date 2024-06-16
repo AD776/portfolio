@@ -10,8 +10,10 @@
 - big impact project 2!
 
 **Software Engineer Intern @ County of Santa Clara Assessor's (_June 2023 - September 2023_)**
-- big impact project 1!
-- big impact project 2!
+- Joined the Information Systems division
+- Worked to enhance customer engagement with services provided by the county office
+- Developed an online system to efficiently book appointments for our customers -- property owners in the County of Santa Clara
+- Can doubly be used by members of our internal staff to book appointments for follow ups to in-person visits
 
 **Research Assistant @ Sensors, Energy, and Automation Lab (_September 2022 - May 2023_)**
 - big impact project 1!
