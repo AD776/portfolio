@@ -2,9 +2,11 @@
 
 ## Education
 - B.S., Computer Science | University of Washington (_June 2026_)
+- minor in Business Administration
+- minor in Applied Mathematics
 
 ## Work Experience
-**Software Development Intern @ County of Santa Clara Assessor's (_June 2023 - September 2023_)**
+**SWE @ County of Santa Clara Assessor's (_June 2023 - September 2023_)**
 - big impact project 1!
 - big impact project 2!
 
