@@ -6,7 +6,7 @@
 
 ## Work Experience
 **Software Engineer Intern @ Echelon Consulting Group, LLC (_June 2024 - Present_)**
-- big impact project 1!
+- Ongoing. Will be updated soon!
 
 **Software Engineer Intern @ County of Santa Clara Assessor's (_June 2023 - September 2023_)**
 - Joined the Information Systems division
