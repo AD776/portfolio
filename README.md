@@ -14,4 +14,10 @@
 - big impact project 2!
 
 ## Projects
+### Reset - The One-Stop Reminders App to End Scrolling
+
 ### XRA Campus 360
+
+### UWashington Formula Driverless
+
+### Undergraduate Research Assistant
