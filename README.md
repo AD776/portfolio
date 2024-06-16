@@ -31,6 +31,12 @@
 ![RESET Demo](/assets/img/demo.png)
 
 ### Campus 360
+- Found that certain buildings on campus were difficult to navigate for visitors, one of these buildings is the Husky Union Building (HUB), the center of campus life
+- Worked with the HUB to create an immersive virtual experience that will be available on the [HUB website](https://hub.washington.edu/)
+
+#### Skills: Planning, Communication, Shooting on a 360 Camera, Editing
+
+![Insta360Pro](/assets/img/360pro.jpg)
 
 ### UWashington Formula
 - Worked to advance autonomous functionalities on a Formula One vehicle as part of the Driverless subteam
