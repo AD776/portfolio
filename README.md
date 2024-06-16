@@ -16,7 +16,7 @@
 ## Projects
 ### Reset - The All-in-One Reminder App
 
-### XRA Campus 360
+### Campus 360
 
 ### UWashington Formula Driverless
 
