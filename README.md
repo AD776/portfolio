@@ -7,7 +7,6 @@
 ## Work Experience
 **Software Engineer Intern @ Echelon Consulting Group, LLC (_June 2024 - Present_)**
 - big impact project 1!
-- big impact project 2!
 
 **Software Engineer Intern @ County of Santa Clara Assessor's (_June 2023 - September 2023_)**
 - Joined the Information Systems division
@@ -26,4 +25,8 @@
 ### Campus 360
 
 ### UWashington Formula
+- Worked to advance autonomous functionalities on a Formula One vehicle as part of the Driverless subteam
+- Implemented a fail-safe mechanism in case the main motor malfunctioned
+- Synchronized communication for the vehicle through a single channel
 
+![T35](/assets/img/T35.jpeg)
