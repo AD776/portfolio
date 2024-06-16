@@ -14,7 +14,7 @@
 - big impact project 2!
 
 ## Projects
-### Reset - The One-Stop App to End Doomscrolling
+### Reset - The All-in-One Reminder App
 
 ### XRA Campus 360
 
