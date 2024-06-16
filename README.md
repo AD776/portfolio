@@ -37,6 +37,6 @@
 - Optimized control of a stepper motor to improve responsiveness in providing steering assistance
 - Synchronized communication for the vehicle through a single channel
 
-#### Skills: C++, Python, Arduino, ROS, CANbus, LiDAR, YOLO, Shortest Path
+#### Skills: C++, Python, Arduino, ROS, CANbus
 
 ![Formula Logo](/assets/img/formula.jpeg)
