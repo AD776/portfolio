@@ -26,7 +26,7 @@
 
 ### UWashington Formula
 - Worked to advance autonomous functionalities on a Formula One vehicle as part of the Driverless subteam
-- Configured a stepper motor for precise and responsive steering control in the EPS actuator
+- Optimized control of a stepper motor to improve responsiveness in providing steering assistance
 - Synchronized communication for the vehicle through a single channel
 
 ![Formula Logo](/assets/img/formula.jpeg)
