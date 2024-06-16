@@ -14,10 +14,10 @@
 - big impact project 2!
 
 ## Projects
-### Reset - The All-in-One Reminder App
+### RESET - The All-in-One Reminder App
 
 ### Campus 360
 
-### UWashington Formula Driverless
+### UWashington Formula
 
 ### Undergraduate Research Assistant
