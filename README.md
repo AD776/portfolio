@@ -16,8 +16,9 @@
 - Can doubly be used by members of our internal staff to book appointments for follow ups to in-person visits
 
 **Research Assistant @ Sensors, Energy, and Automation Lab (_September 2022 - May 2023_)**
-- big impact project 1!
-- big impact project 2!
+- Supervisor: Alex Mamishev, Ph.D. | UW Department of Electrical and Computer Engineering
+- Remodeled the backend of a legacy graphical user interface
+- Built support for multiple sensor inputs and logging real-time measurements, both visually through a plot and numerically as data exported into a spreadsheet
 
 ## Projects
 ### RESET - The All-in-One Reminder App
