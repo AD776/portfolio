@@ -25,7 +25,8 @@
 - Became clear that there was an opportunity to create something unique
 - Reset integrates your emails, messages, and reminders into one streamlined app to reduce some of that early morning stress
 - Allows your body to properly reap the benefits of a good night's sleep
-#### Technical Skills: JavaScript, React Native, MongoDB, Firebase, Expo
+
+#### Skills: JavaScript, React Native, MongoDB, Firebase, Expo
 
 ![RESET Demo](/assets/img/demo.png)
 
