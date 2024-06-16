@@ -2,7 +2,7 @@
 
 ## Education
 - B.S., Computer Science | University of Washington (_June 2026_)
-  - Minor(s): Business Administration and Applied Mathematics | University of Washington
+  - Minor(s): Business Administration and Applied Mathematics | 
 
 ## Work Experience
 **SWE @ County of Santa Clara Assessor's (_June 2023 - September 2023_)**
