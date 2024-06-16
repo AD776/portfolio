@@ -29,4 +29,4 @@
 - Implemented a fail-safe mechanism in case the main motor malfunctioned
 - Synchronized communication for the vehicle through a single channel
 
-![T35](/assets/img/T35.jpeg)
+![Formula Logo](/assets/img/formula.jpeg)
