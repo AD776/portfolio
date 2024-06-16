@@ -26,7 +26,7 @@
 
 ### UWashington Formula
 - Worked to advance autonomous functionalities on a Formula One vehicle as part of the Driverless subteam
-- Implemented a fail-safe mechanism in case the main motor malfunctioned
+- Configured a stepper motor for precise and responsive steering control in the EPS actuator
 - Synchronized communication for the vehicle through a single channel
 
 ![Formula Logo](/assets/img/formula.jpeg)
