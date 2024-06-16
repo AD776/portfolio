@@ -14,7 +14,7 @@
 - big impact project 2!
 
 ## Projects
-### Reset - The One-Stop Reminders App to End Scrolling
+### Reset - The One-Stop App to End Doomscrolling
 
 ### XRA Campus 360
 
