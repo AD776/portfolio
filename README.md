@@ -13,6 +13,10 @@
 - big impact project 1!
 - big impact project 2!
 
+**Research Assistant @ Sensors, Energy, and Automation Lab (_September 2022 - May 2023_)**
+- big impact project 1!
+- big impact project 2!
+
 ## Projects
 ### RESET - The All-in-One Reminder App
 
@@ -20,4 +24,3 @@
 
 ### UWashington Formula
 
-### Undergraduate Research Assistant
