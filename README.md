@@ -1,8 +1,8 @@
 # Computer Scientist
 
 ## Education
-- B.S., Computer Science | University of Washington (_June 2026_)
-  - Minor(s): Business Administration and Applied Mathematics | 
+- B.S., Computer Science   University of Washington (_June 2026_)
+  - Minor(s): Business Administration and Applied Mathematics   
 
 ## Work Experience
 **Software Engineer Intern @ Echelon Consulting Group, LLC (_June 2024 - Present_)**
