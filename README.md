@@ -8,7 +8,7 @@
 **Software Engineer Intern @ Echelon Consulting Group, LLC (_June 2024 - Present_)**
 - Ongoing. Will be updated soon!
 
-**Software Engineer Intern @ County of Santa Clara Assessor's (_June 2023 - September 2023_)**
+**Software Development Intern @ County of Santa Clara Assessor's (_June 2023 - September 2023_)**
 - Joined the Information Systems division
 - Worked to enhance customer engagement with services provided by the county office
 - Developed an online system to efficiently book appointments for our customers -- property owners in the County of Santa Clara
