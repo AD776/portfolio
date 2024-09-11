@@ -27,7 +27,7 @@
 ## Projects
 ### RESET – All Your Reminders, One Easy Reset
 - RESET gathers your emails, messages, and reminders in one place, giving you clarity to focus on your day
-- Presented an interactive demo to a crowd of students and VCs, gauging their interest and response
+- Presented the project to students and VCs through an interactive demo, gauging their interest and response
 
 #### Skills: JavaScript, React Native, MongoDB, Firebase, Expo
 
