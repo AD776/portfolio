@@ -6,7 +6,10 @@
 
 ## Work Experience
 **Software Engineer Intern @ Echelon Consulting Group, LLC (_June 2024 - Present_)**
-- Ongoing. Will be updated soon!
+- Joined the Content AI team
+- Worked on a scalable cloud application involving AI agents and modular components
+- Pushing reasonable boundaries of innovation in AI with leading technologies such as RAG, Vector DBs, and OpenAI API
+- Using industry standard practices — following an Agile Scrum methodology and collaborating using Azure DevOps with a CI/CD based approach
 
 **Software Development Intern @ County of Santa Clara Assessor's (_June 2023 - September 2023_)**
 - Joined the Information Systems division
