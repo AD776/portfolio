@@ -21,15 +21,15 @@
 
 **Research Assistant @ Sensors, Energy, and Automation Lab (_September 2022 - May 2023_)**
 - Supervisor: Alex Mamishev, Ph.D.
-- Remodeled the backend of a legacy graphical user interface
+- Remodeled the back end of a student-made graphing software
 - Built support for multiple sensor inputs and logging real-time measurements, both visually through a plot and numerically as data exported into a spreadsheet
 
 ## Projects
-### RESET - The All-in-One Reminder App
-- Noticed that a lot of time is spent scrolling through notifications in the morning
+### RESET – Simplify Your Day, Start Fresh
+- Noticed how much time was spent scrolling through notifications in the mornings
 - Became clear that there was an opportunity to create something unique
-- Reset integrates your emails, messages, and reminders into one streamlined app to reduce some of that early morning stress
-- Allows your body to properly reap the benefits of a good night's sleep
+- RESET consolidates your emails, messages, and reminders in one streamlined app, helping you reduce morning stress and start each day fresh
+- Previewed to a couple hundred students on campus in an open demo
 
 #### Skills: JavaScript, React Native, MongoDB, Firebase, Expo
 
