@@ -25,11 +25,9 @@
 - Built support for multiple sensor inputs and logging real-time measurements, both visually through a plot and numerically as data exported into a spreadsheet
 
 ## Projects
-### RESET – Simplify Your Day, Start Fresh
-- Noticed how much time was spent scrolling through notifications in the mornings
-- Became clear that there was an opportunity to create something unique
-- RESET consolidates your emails, messages, and reminders in one streamlined app, helping you reduce morning stress and start each day fresh
-- Previewed to a couple hundred students on campus in an open demo
+### RESET – All Your Reminders, One Easy Reset
+- RESET gathers your emails, messages, and reminders in one place, giving you clarity to focus on your day
+- Presented an interactive demo to a crowd of students and VCs, gauging their interest and response
 
 #### Skills: JavaScript, React Native, MongoDB, Firebase, Expo
 
