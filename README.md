@@ -25,7 +25,7 @@
 - Built support for multiple sensor inputs and logging real-time measurements, both visually through a plot and numerically as data exported into a spreadsheet
 
 ## Projects
-### RESET – All Your Reminders, One Easy Reset
+### RESET – One Tap for All Your Reminders
 - Noticed the time spent on my phone, swiping and reading through notifications in the morning
 - RESET gathers your emails, messages, and reminders in one place, giving you the clarity to focus on your day
 - Built a full stack mobile app using React Native and the MERN stack
