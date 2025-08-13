@@ -7,7 +7,7 @@
 ## Work Experience
 **Software Engineer Intern @ Echelon Consulting Group, LLC (_June 2024 - September 2024_)**
 - Enhanced a client-facing Azure cloud web application involving AI agents and microservices
-- Innovated in the AI space with leading technologies such as RAG, Vector DBs, and OpenAI API
+- Forayed into the AI space with technologies such as RAG, Vector DBs, and OpenAI API, while considering scalability and maintaining coding best practices
 - Used industry standard practices:
   - Followed an Agile Scrum methodology
   - Collaborated using Azure DevOps
