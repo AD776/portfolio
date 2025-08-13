@@ -19,11 +19,6 @@
 - Developed an online system to efficiently book appointments for our customers—property owners in the County of Santa Clara
 - Can doubly be used by members of our internal staff to book appointments for follow ups to in-person visits
 
-**Research Assistant @ Sensors, Energy, and Automation Lab (_September 2022 - May 2023_)**
-- Supervisor: Alex Mamishev, Ph.D.
-- Remodeled the back end of a student-made graphing software
-- Built support for multiple sensor inputs and logging real-time measurements, both visually through a plot and numerically as data exported into a spreadsheet
-
 ## Projects
 ### RESET – One Tap for All Your Reminders
 - Noticed the time spent on my phone, swiping and reading through notifications in the morning
